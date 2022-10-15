@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/eth-calculator/static/css/main.e251494d.chunk.css",
+    "main.js": "/eth-calculator/static/js/main.381943a3.chunk.js",
+    "main.js.map": "/eth-calculator/static/js/main.381943a3.chunk.js.map",
+    "runtime-main.js": "/eth-calculator/static/js/runtime-main.e5de50ee.js",
+    "runtime-main.js.map": "/eth-calculator/static/js/runtime-main.e5de50ee.js.map",
+    "static/js/2.d78665fa.chunk.js": "/eth-calculator/static/js/2.d78665fa.chunk.js",
+    "static/js/2.d78665fa.chunk.js.map": "/eth-calculator/static/js/2.d78665fa.chunk.js.map",
+    "static/js/3.a68cd2de.chunk.js": "/eth-calculator/static/js/3.a68cd2de.chunk.js",
+    "static/js/3.a68cd2de.chunk.js.map": "/eth-calculator/static/js/3.a68cd2de.chunk.js.map",
+    "index.html": "/eth-calculator/index.html",
+    "static/css/main.e251494d.chunk.css.map": "/eth-calculator/static/css/main.e251494d.chunk.css.map",
+    "static/js/2.d78665fa.chunk.js.LICENSE.txt": "/eth-calculator/static/js/2.d78665fa.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/eth-calculator/static/media/background.0dc55042.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e5de50ee.js",
+    "static/js/2.d78665fa.chunk.js",
+    "static/css/main.e251494d.chunk.css",
+    "static/js/main.381943a3.chunk.js"
+  ]
+}
